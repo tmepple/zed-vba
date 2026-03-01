@@ -1,0 +1,6 @@
+name = "VBA"
+grammar = "vba"
+path_suffixes = ["bas", "cls", "frm"]
+line_comments = ["' "]
+tab_size = 4
+hard_tabs = false
